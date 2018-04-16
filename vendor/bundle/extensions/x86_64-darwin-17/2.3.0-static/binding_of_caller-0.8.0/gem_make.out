@@ -1,0 +1,16 @@
+current directory: /Users/fujimakirika/FiNC/2/3_rails/board/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/Users/fujimakirika/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180407-47461-adid80.rb extconf.rb
+
+current directory: /Users/fujimakirika/FiNC/2/3_rails/board/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/fujimakirika/FiNC/2/3_rails/board/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/fujimakirika/FiNC/2/3_rails/board/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
